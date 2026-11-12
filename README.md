@@ -104,7 +104,7 @@ dnsrecon -d networkwalks.com
 | ID | Finding | Evidence | Security Relevance | Risk |
 |---|---|---|---|---|
 | F-01 | Domain Information | WHOIS | Supports public domain profiling | 🟢 Low |
-| F-02 | Web Technology Information | WhatWeb / Wappalyzer | Helps identify website technologies | 🟠 Medium |
+| F-02 | Web Technology Information | WhatWeb | Helps identify website technologies | 🟠 Medium |
 | F-03 | DNS/IP Information | NSLOOKUP | Helps identify network information | 🟢 Low |
 | F-04 | HTTP Technical Information | cURL | Helps analyze HTTP headers and responses | 🟢 Low |
 | F-05 | WAF Information | WAFW00F | Reveals defensive technology | 🟢 Low |
