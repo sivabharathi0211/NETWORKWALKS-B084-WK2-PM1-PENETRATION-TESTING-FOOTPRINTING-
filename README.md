@@ -82,13 +82,14 @@ dnsrecon -d networkwalks.com
 
 🛠️ Tools & Their Uses
 
-Tool| Usage
-WHOIS| Domain information gathering.
-WhatWeb| Website technology identification.
-NSLOOKUP| DNS and IP address lookup.
-DNSRecon| DNS enumeration and subdomain discovery.
-cURL| HTTP request and header analysis.
-WAFW00F| Web Application Firewall detection.
+| Tool     | Usage                                    |
+| -------- | ---------------------------------------- |
+| WHOIS    | Domain information gathering.            |
+| WhatWeb  | Website technology identification.       |
+| NSLOOKUP | DNS and IP address lookup.               |
+| DNSRecon | DNS enumeration and subdomain discovery. |
+| cURL     | HTTP request and header analysis.        |
+| WAFW00F  | Web Application Firewall detection.      |
 
 🔄 Practical Workflow
 
