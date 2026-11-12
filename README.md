@@ -99,6 +99,17 @@ dnsrecon -d networkwalks.com
 4. HTTP Analysis: Use cURL to inspect HTTP headers and server responses.
 5. WAF Detection: Use WAFW00F to identify possible Web Application Firewall protection.
 
+## 🔍 Footprinting – Findings & Security Analysis
+
+| ID | Finding | Evidence | Security Relevance | Risk |
+|---|---|---|---|---|
+| F-01 | Domain Information | WHOIS | Supports public domain profiling | 🟢 Low |
+| F-02 | Web Technology Information | WhatWeb / Wappalyzer | Helps identify website technologies | 🟠 Medium |
+| F-03 | DNS/IP Information | NSLOOKUP | Helps identify network information | 🟢 Low |
+| F-04 | HTTP Technical Information | cURL | Helps analyze HTTP headers and responses | 🟢 Low |
+| F-05 | WAF Information | WAFW00F | Reveals defensive technology | 🟢 Low |
+| F-06 | DNS Infrastructure Information | DNSRecon | Helps build an infrastructure profile | 🟠 Medium |
+
 📚 Key Learning Outcomes
 
 - Gained hands-on experience with footprinting and reconnaissance tools.
