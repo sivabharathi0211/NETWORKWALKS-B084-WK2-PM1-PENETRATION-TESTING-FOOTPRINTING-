@@ -80,15 +80,15 @@ dnsrecon -d networkwalks.com
 <img width="1366" height="643" alt="1000160890" src="https://github.com/user-attachments/assets/0167f597-867d-4df6-8a0b-c7a26893bb3c" />
 
 
+🛠️ Tools & Their Uses
 
-⚙️ Environment & Requirements
-
-Component| Details
-Operating System| Kali Linux
-Platform| Linux Terminal
-Tools| WHOIS, WhatWeb, NSLOOKUP, DNSRecon, cURL, WAFW00F
-Requirement| Internet Connection
-Knowledge| Basic Networking & Linux Commands
+Tool| Usage
+WHOIS| Domain information gathering.
+WhatWeb| Website technology identification.
+NSLOOKUP| DNS and IP address lookup.
+DNSRecon| DNS enumeration and subdomain discovery.
+cURL| HTTP request and header analysis.
+WAFW00F| Web Application Firewall detection.
 
 🔄 Practical Workflow
 
@@ -113,6 +113,4 @@ This project is developed strictly for educational and ethical cybersecurity lea
 
 👨‍💻 Author
 
-Cybersecurity Student
-
-Exploring Ethical Hacking | Penetration Testing | Network Security | Information Security
+Siva Bharathi R - Cybersecurity intern B084
